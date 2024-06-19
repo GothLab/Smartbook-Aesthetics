@@ -11,11 +11,64 @@
             "id": "e2d0ef948741e1ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Hegel/0. Предисловие.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "511c470628d78bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hegel/1. Установление границ и защита эстетики.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56a58c6103322af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hegel/2. Способы научного изучения красоты и художественного творчества.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbd8beff05fcb9df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hegel/3. Понятие прекрасного в искусстве.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def2b4453edcae0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hegel/4. Деление.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hegel/4. Деление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hegel/4. Деление.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hegel/4. Деление.md"
+              }
             }
           }
         ]
@@ -135,11 +192,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e2d0ef948741e1ce",
+  "floating": {
+    "id": "f87e92b86248dc99",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6db11302dd0eea2e",
+        "type": "window",
+        "children": [
+          {
+            "id": "5d975f5aec9051a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c2f6054b2db8a17a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Hegel/4. Деление.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c2f6054b2db8a17a",
   "lastOpenFiles": [
+    "Hegel/3. Понятие прекрасного в искусстве.md",
+    "Hegel/2. Способы научного изучения красоты и художественного творчества.md",
+    "Hegel/0. Предисловие.md",
+    "Hegel/4. Деление.md",
+    "Hegel/1. Установление границ и защита эстетики.md",
+    "Untitled.md",
+    "Hegel",
+    "index.md",
     "Welcome.md"
   ]
 }
